@@ -1,8 +1,7 @@
 # 🗺️ Google Maps Scraper
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCQtHcqGpmHeoN6/giphy.gif" alt="Google Maps Scraper Animation">
-</p>
+<img src="https://media.giphy.com/media/1n7E3QFVJ6Tu1q2DKz/giphy.gif" alt="Google Maps Scraper Animation"> </p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-green)
