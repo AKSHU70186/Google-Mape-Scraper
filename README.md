@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdxbmY3N2VndmZzNWFhb3R5cHVsMWM1OTk0N2wyNjR1cWVzbjk1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Google Maps Scraper Animation"> </p>
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-green)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.9.3-yellow)
